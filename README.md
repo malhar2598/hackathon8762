@@ -8,27 +8,28 @@ This repository contains a machine learning model for predicting whether a custo
 This project aims to:
 
 - **Build a predictive model:** Develop a machine learning model that can accurately predict customer subscription to term deposits.
-- **Optimize marketing campaigns:** Identify the most promising leads for telephonic marketing campaigns to maximize conversion rates and minimize costs.
+- **Optimize marketing campaigns:** Identify the most promising leads for telephonic marketing campaigns to maximize conversion rates.
 
 ## Data
 
 The dataset used in this project is related to direct marketing campaigns of a Portuguese banking institution. It includes information such as customer demographics, campaign details, and the target variable (subscription status).
+The datasets are linked namely, train.csv and test.csv.
 
 ## Methodology
 
 1. **Data Loading and Preprocessing:**
-   - Load the dataset using pandas.
+   - Load the dataset(train.csv) using pandas.
    - Handle missing values.
    - Perform exploratory data analysis (EDA).
    - Encode categorical variables.
    - Split the data into training and testing sets.
 
 2. **Model Training:**
-   - Train a machine learning model (e.g., Logistic Regression, Random Forest) on the training data.
-   - Use appropriate preprocessing techniques (e.g., feature scaling, one-hot encoding).
+   - Train a machine learning model, Logistic Regression on the training data.
+   - Use appropriate preprocessing techniques feature scaling.
 
 3. **Model Evaluation:**
-   - Evaluate model performance on the test set using metrics such as accuracy, precision, recall, F1-score, and AUC-ROC.
+   - Evaluate model performance on the test set using metrics such as accuracy, precision, recall and F1-score.
 
 4. **Model Deployment and Monitoring:**
    - Integrate the trained model into a system for making predictions on new customer data.
