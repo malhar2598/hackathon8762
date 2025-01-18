@@ -3,6 +3,18 @@
 
 This repository contains a machine learning model for predicting whether a customer will subscribe to a term deposit based on historical marketing campaign data.
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Data](#data)
+- [Technologies Used](#technologies-used)
+- [Methodology](#methodology)
+- [Model Training](#model-training)
+- [Model Evaluation](#model-evaluation)
+- [Model Deployment and Monitoring](#model-deployment-monitoring)
+- [Files](#files)
+- [License](#license)
+
+
 ## Project Overview
 
 This project aims to:
@@ -43,8 +55,10 @@ The datasets are linked namely, train.csv and test.csv.
 - `test.csv/`: Stores the trained model file.
 - `README.md`: This file.
 
-## Getting Started
 
-1. **Clone the repository:**
-   ```bash
-   git clone <repository_url>
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+---
+
+Feel free to reach out if you have any questions or suggestions!
