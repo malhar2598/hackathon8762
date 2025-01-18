@@ -60,6 +60,7 @@ The datasets are linked namely, train.csv and test.csv.
 - `test.csv/`: Stores the trained model file.
 - `README.md`: This file.
 - `hackathon8762.csv/`: Contains the finalised dataset with the predicted column 'y'.
+- `hackathon8762.pdf/`: Contains the finalised dashboard visualised with the PowerBi. 
 
 
 Feel free to reach out if you have any questions or suggestions!
