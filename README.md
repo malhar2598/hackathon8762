@@ -8,9 +8,6 @@ This repository contains a machine learning model for predicting whether a custo
 - [Data](#data)
 - [Technologies Used](#technologies-used)
 - [Methodology](#methodology)
-- [Model Training](#model-training)
-- [Model Evaluation](#model-evaluation)
-- [Model Deployment and Monitoring](#model-deployment-monitoring)
 - [Files](#files)
 - [License](#license)
 
@@ -26,6 +23,15 @@ This project aims to:
 
 The dataset used in this project is related to direct marketing campaigns of a Portuguese banking institution. It includes information such as customer demographics, campaign details, and the target variable (subscription status).
 The datasets are linked namely, train.csv and test.csv.
+
+
+## Technologies Used
+- **Programming Languages**: Python
+- **Libraries and Frameworks**:
+  - Scikit-learn (for building the machine learning model)
+  - Pandas and NumPy (for data manipulation)
+  - Matplotlib and Seaborn (for data visualization)
+  - Microsoft PowerBi (for dashboard and visualization)
 
 ## Methodology
 
