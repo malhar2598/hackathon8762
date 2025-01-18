@@ -39,7 +39,7 @@ The datasets are linked namely, train.csv and test.csv.
 ## Files
 
 - `train.csv/`: Contains the dataset used to train the model.
-- `hackathon8762/`: Contains Jupyter scripts for data preprocessing, model training, and evaluation.
+- `[hackathon8762/](https://github.com/malhar2598/hackathon8762/blob/main/hackathon8762.ipynb)`: Contains Jupyter scripts for data preprocessing, model training, and evaluation.
 - `test.csv/`: Stores the trained model file.
 - `README.md`: This file.
 
