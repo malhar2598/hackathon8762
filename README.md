@@ -33,13 +33,14 @@ The datasets are linked namely, train.csv and test.csv.
 
 4. **Model Deployment and Monitoring:**
    - Integrate the trained model into a system for making predictions on new customer data.
-   - Monitor model performance over time and retrain as needed.
+   - Upload the test.csv file to test and make predictions of the new dataset.
+   - Making sure that all columns of the dataset is exactly the same, as any discrepancy will leads to errors.
 
 ## Files
 
-- `data/`: Contains the dataset (e.g., `bank-data.csv`).
-- `src/`: Contains Python scripts for data preprocessing, model training, and evaluation.
-- `model/`: Stores the trained model file.
+- `train.csv/`: Contains the dataset used to train the model.
+- `hackathon8762/`: Contains Jupyter scripts for data preprocessing, model training, and evaluation.
+- `test.csv/`: Stores the trained model file.
 - `README.md`: This file.
 
 ## Getting Started
