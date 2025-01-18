@@ -9,7 +9,6 @@ This repository contains a machine learning model for predicting whether a custo
 - [Technologies Used](#technologies-used)
 - [Methodology](#methodology)
 - [Files](#files)
-- [License](#license)
 
 
 ## Project Overview
@@ -62,10 +61,5 @@ The datasets are linked namely, train.csv and test.csv.
 - `README.md`: This file.
 - `hackathon8762.csv/`: Contains the finalised dataset with the predicted column 'y'.
 
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
----
 
 Feel free to reach out if you have any questions or suggestions!
