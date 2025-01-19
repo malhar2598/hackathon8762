@@ -56,11 +56,38 @@ The datasets are linked namely, train.csv and test.csv.
 ## Files
 
 - `train.csv/`: Contains the dataset used to train the model.
-- `hackathon8762.ipynb/)`: Contains Jupyter scripts for data preprocessing, model training, and evaluation.
-- `test.csv/`: Stores the trained model file.
-- `README.md`: This file.
-- `hackathon8762.csv/`: Contains the finalised dataset with the predicted column 'y'.
-- `hackathon8762.pdf/`: Contains the finalised dashboard visualised with the PowerBi. 
+- `hackathon8762.ipynb/`: A Jupyter Notebook containing scripts for data preprocessing, model training, and evaluation.
+- `test.csv/`: Stores the data used for model predictions.
+- `README.md`: The documentation file explaining the project.
+- `hackathon8762.csv/`: The output dataset with the predicted 'y' column.
+- `hackathon8762.pdf/`: A visualized dashboard of the results created using Power BI.
+
+
+## Setup Instructions
+
+Follow these steps to set up and run the project:
+
+1. Download the Required Files:
+
+    - Place the train.csv and test.csv files in the same directory.
+    - Download the hackathon8762.ipynb notebook script and place it in the same directory as the CSV files.
+
+2. Open the Notebook:
+
+    - Use your preferred Python IDE. This project was developed using Jupyter Notebook.
+    - Open the hackathon8762.ipynb file through your IDE, ensuring that the file paths to train.csv and test.csv are correct and that the file names have not been modified.
+
+3. Run the Notebook:
+
+    - Execute the cells in the hackathon8762.ipynb notebook. This will train the model.
+
+4. Make Predictions:
+
+    - The model will automatically predict the values for the test.csv data and append a new column, y, with the results. There is no need to manually add this column.
+
+5. Completion:
+
+    - That’s it! The model is now ready. Thank you for using this project.
 
 
 Feel free to reach out if you have any questions or suggestions!
