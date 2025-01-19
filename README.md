@@ -9,7 +9,8 @@ This repository contains a machine learning model for predicting whether a custo
 - [Technologies Used](#technologies-used)
 - [Methodology](#methodology)
 - [Files](#files)
-
+- [Setup Instructions](#setup-instructions)
+- [Project Walkthrough Video](#project-walkthrough-video)
 
 ## Project Overview
 
@@ -88,6 +89,11 @@ Follow these steps to set up and run the project:
 5. Completion:
 
     - That’s it! The model is now ready. Thank you for using this project.
+
+## Project Walkthrough Video
+
+For a detailed walkthrough of the project, including explanations of the approach, implementation, and results, watch the [project presentation video](https://drive.google.com/file/d/1bO-Ypd-lVTNPcNad9aAndIOzY9EwWl7t/view?usp=sharing)
+
 
 
 Feel free to reach out if you have any questions or suggestions!
